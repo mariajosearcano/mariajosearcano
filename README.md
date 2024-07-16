@@ -7,6 +7,8 @@
 
 <h2 align="center">😃 About me</h2> 
 <p align="center">
+  Junior Developer 😎
+  <br>
   Passionate about technology and willing to learn 💻
   <br>
   Looking for opportunities to collaborate on innovative projects 🚀
