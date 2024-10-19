@@ -17,7 +17,7 @@
 <h2 align="center">🔍 I have knowledge in</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,git,html,css,javascript,c,cpp,bootstrap,nodejs,express,figma" />
+    <img src="https://skillicons.dev/icons?i=java,python,git,html,css,javascript,mongodb,c,cpp,bootstrap,nodejs,express,notion,figma" />
   </a>
 </p>
 
