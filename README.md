@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="1000" src="https://res.cloudinary.com/dieprtgzj/image/upload/v1732210967/github-snake_mrvdck.svg" alt="snake"/>
 </p>
 
 
